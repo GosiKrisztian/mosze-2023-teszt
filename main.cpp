@@ -24,5 +24,8 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+	
+	std::cout << "Ez egy uj sor a munkaagon." << std::endl;
+	
     return 0;
 }
